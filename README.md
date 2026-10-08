@@ -1,5 +1,9 @@
 # DevinUsageBar
 
+> **Disclaimer**: このコードは AI (Claude) が生成したもので、リポジトリ所有者によるレビューは一切行われていません。実行は自己責任で。
+>
+> **Disclaimer**: This code was AI-generated (Claude) and has NOT been reviewed by the repository owner. Use at your own risk.
+
 Devin CLI のクォータ使用量を macOS メニューバーに表示する小さなアプリ。
 
 `⚡ D:100% W:50%` のように、Daily / Weekly クォータの残り%を 60 秒ごとに更新します。
